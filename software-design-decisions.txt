@@ -1,3 +1,9 @@
 
 - Using vanilla CSS in Vue for long term readability / most control over
 styling.
+
+
+Style:
+
+- Will use " for strings to make it more convenient to include ' within strings,
+since more ' appear within strings than "
