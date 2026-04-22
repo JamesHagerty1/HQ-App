@@ -1,0 +1,3 @@
+
+- Using vanilla CSS in Vue for long term readability / most control over
+styling.
